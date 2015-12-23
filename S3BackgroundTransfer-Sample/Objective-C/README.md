@@ -1,6 +1,6 @@
 # The Amazon S3 Background Transfer Sample
 
-This sample demonstrates how to use `AWSS3PreSignedURLBuilder` to download / upload files in background.
+This sample demonstrates how to use `AWSS3TransferUtility` to download / upload files in background.
 
 ## Requirements
 
